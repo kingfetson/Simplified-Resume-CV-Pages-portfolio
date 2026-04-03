@@ -6,9 +6,9 @@ const CONFIG = {
   // Site Metadata
   site: {
     name: "Simon",
-    title: "Web Developer & Designer",
+    title: "clinical officer",
     description: "Professional portfolio and resume/CV hosting platform",
-    author: "Simon",
+    author: "Festus",
     version: "1.0.0",
     baseUrl: window.location.origin
   },
@@ -16,7 +16,7 @@ const CONFIG = {
   // Professional Information
   professional: {
     name: "Simon",
-    title: "Web Developer",
+    title: "clinical officer",
     email: "simon@example.com",
     phone: "+1 (555) 123-4567",
     location: "New York, USA",
