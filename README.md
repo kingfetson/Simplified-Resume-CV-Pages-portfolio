@@ -54,14 +54,14 @@ Edit `config.js` to customize:
 - File upload limits
 - Feature flags
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
 - **100% Client-Side** - No data leaves your browser
 - **IndexedDB Storage** - Files stored locally (up to 50MB)
 - **No Tracking** - Zero analytics or third-party scripts
 - **User Control** - Delete files anytime with one click
 
-## 📤 How to Use
+##  How to Use
 
 ### For You (Portfolio Owner)
 1. Open portfolio in browser
@@ -86,7 +86,7 @@ Edit `config.js` to customize:
 | Icons | Font Awesome 6 |
 | Fonts | Google Fonts (Poppins) |
 
-## 🌐 Browser Support
+##  Browser Support
 
 | Browser | Version | Status |
 |---------|---------|--------|
@@ -95,7 +95,7 @@ Edit `config.js` to customize:
 | Safari | 14+ | ✅ Full Support |
 | Edge | 90+ | ✅ Full Support |
 
-## 📄 License
+##  License
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
@@ -103,5 +103,5 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 **Built with 💚 for professionals who want a clean, modern online presence.**
 
-⭐ *Star this repo if you find it useful!*
+ *Star this repo if you find it useful!*
 ```
